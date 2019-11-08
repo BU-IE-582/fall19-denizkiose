@@ -4,7 +4,7 @@ https://bu-ie-582.github.io/fall19-denizkiose/
 homework - 1 / R > [here](homework.ipynb)
 
 
-homework - 1 / html > [here](hw1.html)
+homework - 1 / html > [here](HW1Kiose.html)
 
 
 
