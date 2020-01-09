@@ -16,4 +16,8 @@ homework - 3/ R > [here](HW3_kiose.ipynb)
 
 homework - 3 / html > [here](Untitled12.html)
 
+homework - 4/ R > [here](HW4_ScriptKiose.R)
+
+homework - 4 / html > [here](HW4Kiose.html)
+
 project > [here](project.html)
